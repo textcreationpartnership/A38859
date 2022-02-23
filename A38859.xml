@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the proceedings at Guild-Hall upon the election of the Right Honourable Sir William Prichard the present Lord Mayor of the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38859</idno>
+            <idno type="STC">Wing E3578</idno>
+            <idno type="STC">ESTC R36206</idno>
+            <idno type="EEBO-CITATION">15618599</idno>
+            <idno type="OCLC">ocm 15618599</idno>
+            <idno type="VID">104177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the proceedings at Guild-Hall upon the election of the Right Honourable Sir William Prichard the present Lord Mayor of the city of London</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pritchard, William, --  Sir, 1632?-1705.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104177:1" rendition="simple:additions"/>
+            <head>AN EXACT ACCOUNT OF THE PROCEEDINGS <hi>At Guild-Hall.</hi> Upon the Election of the Right Honourable Sir <hi>WILLIAM PRICHARD,</hi> The preſent Lord Mayor of the City of <hi>LONDON.</hi>
+            </head>
+            <p>UPon <hi>Friday</hi> the 29. of <hi>September</hi> laſt, (being the <hi>Anniverſary</hi> day for the Election of a Lord Mayor for the City of <hi>London</hi>) all the Aldermen below the Chair were put in nomination, for the choice of two Perſons out of that number to be preſented to the L. Mayor and Court of Aldermen. The Election was declared upon the View, to fall to Sir <hi>William Prichard,</hi> and Sir <hi>Thomas Gold.</hi> But a Poll was then demanded by Mr. <hi>Jenks</hi> and others for Sir <hi>Henry Tulſe</hi> and Mr. Alderman <hi>Cor<g ref="char:EOLhyphen"/>niſh.</hi> Whereupon the Sheriffs and Common Serjeant, with the Maſters and Wardens of ſeveral Companies went into the Mayors Court, and reported it to the Lord Mayor and Court of Aldermen; and the Lord Mayor upon that Re<g ref="char:EOLhyphen"/>port granted a Poll, and adjourned till Three Afternoon; when the Poll being continued until the Evening, it was adjourned by his Lordſhips Order to Nine of the Clock the <hi>Munday</hi> morning following; (the 2. of <hi>October, Saturday</hi> being the day appointed for preſenting of the new elected Sheriffs to the Barons of the Exchequer.)</p>
+            <p>The Poll continued all <hi>Monday</hi> in very good Order, and with great Calm<g ref="char:EOLhyphen"/>neſs, to the ſatisfaction of all Parties concerned. It was taken in ſix Books, and a Superviſor (as well on the behalf of Sir <hi>William Prichard</hi> and Sir <hi>Henry Tulſe,</hi> as for Sir <hi>Thomas Gold</hi> and Mr. Alderman <hi>Corniſh</hi>) to every Book. From <hi>Monday</hi> the Lord Mayor adjourned the Poll again till Two the next day; and that Even<g ref="char:EOLhyphen"/>ing the Books were cloſed. But before the cloſing of them, Mr. <hi>Jenks</hi> and others demanded a <hi>Scrutiny</hi> upon the Poll. The Lord Mayor told him that he had nothing to object againſt it; but however, that as he had not hitherto done any thing without the Advice and Concurrence of his Brethren, ſo he would take their Opinion along with him alſo in this particular. Mr. <hi>Jenks, &amp;c.</hi> de<g ref="char:EOLhyphen"/>ſired the ſame thing again the next Morning: at which time the Books were caſt up. Whereupon the Common Serjeant reported the Numbers to be thus, Sir <hi>William Prichard</hi> 2233. Sir <hi>Henry Tulſe</hi> 236. Sir <hi>Thomas Gold</hi> 2289. Mr. Alder<g ref="char:EOLhyphen"/>man <hi>Corniſh</hi> 2258.</p>
+            <p>The Lord Mayor after this, granted the Scrutiny, and appointed that thoſe who had inſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected the Poll on each ſide ſhould make the ſame; who were Sir <hi>William Dodſon,</hi> Sir <hi>Edmond Wiſeman,</hi> Captain <hi>Griffith,</hi> Captain <hi>Genue,</hi> Mr. <hi>John Craddock,</hi> and Mr. <hi>Thomas Amy</hi> for Sir <hi>William Prichard:</hi> and Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Player</hi> Mr. <hi>John Ellis,</hi> Mr. <hi>Gilbert Nelſon,</hi> Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Jacomb,</hi> Mr. <hi>Francis Jenks,</hi> Mr. <hi>Jo. Hayes,</hi> and Mr. <hi>Len. Robinſon</hi> (as an Aſſiſtant to Sir <hi>Thomas Player</hi>) were for Sir <hi>Thomas Gold</hi> and Mr. Alderman <hi>Corniſh.</hi>
+            </p>
+            <p>The Lord Mayor, upon the appointing of this Inſpection, iſſued out a Pre<g ref="char:EOLhyphen"/>cept to the Maſters and Wardens of the ſeveral Companies, commanding them to return Alphabetical Liſts of their reſpective Liveries.</p>
+            <p>Upon <hi>Friday October</hi> 6. The Sheriffs, Common Serjeant, and Inſpectors met at <hi>Guild-hall</hi> in the <hi>Orphans Court,</hi> where they agreed to take Tranſcripts of the ſeveral Names in the <hi>Poll-Books</hi> to be poſted under the Heads of the ſeveral Companies; which was finiſhed accordingly upon the <hi>Tueſday</hi> following. The Books and Papers being ſealed up every night, and put into a Box, during the time of the Scrutiny, by conſent of both Parties.</p>
+            <p>On <hi>Thurſday</hi> morning <hi>October</hi> 12. The Sheriffs gave the Inſpectors of each ſide the <hi>Tranſcript-Liſts</hi> of the Poll, and likewiſe ordered them Copies of the <hi>Alphabetical-Liſts</hi> of the Companies, that they might be in readineſs to bring in all their Objections upon the <hi>Tueſday</hi> following: After which time, no further Objections were to be admitted.</p>
+            <p>On <hi>Tueſday</hi> (the 17.) The Sheriffs, Common Serjeant, and Inſpectors met in
+<pb facs="tcp:104177:2"/>the <hi>Iriſh Chamber,</hi> and ſo from day to day, till the <hi>Monday</hi> following; which time they ſpent in examining the ſeveral Exceptions, and clearing them ſo far as they could agree upon the matter among themſelves; proceeding hitherto upon fair and amicable terms on both ſides. But upon <hi>Monday</hi> in the Evening there aroſe ſome heats about Capacities and Qualifications; and the Examiners for Sir <hi>Thomas Gold</hi> and Mr. Alderman <hi>Corniſh</hi> deſired the Sheriffs to deliver their Opinion upon the Points in queſtion: But the Sheriffs excuſed themſelves as not competent Judges of the matter, as they had formerly done upon the firſt ſtarting thoſe Objections: And alſo telling them that the Common Serjeant would the next morning pray the Judgment of the Court upon the Particulars wherein they diſagreed; which they did not onely with ſome vehemence op<g ref="char:EOLhyphen"/>poſe, but inſiſted upon it, that my Lord Mayor and Court of Aldermen had nothing at all to do with it.</p>
+            <p>The next morning upon the ſitting of the Court, the Sheriffs, Common Ser<g ref="char:EOLhyphen"/>jeant, and Inſpectors on both ſides came in, and the Common Serjeant acquainted his Lordſhip that the Inſpectors had proceeded upon the Examination of the Poll according to his Lordſhips direction: But that there occurred ſeveral Dif<g ref="char:EOLhyphen"/>ficulties, wherein he humbly deſired the Judgment of his Lordſhip and that Court, as the proper Judges of the Points in difference: <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That whereas by the ancient Conſtitutions of the Company of</hi> Merchant-Tailors, <hi>and by their Ordinances ſigned in the time of K.</hi> James, <hi>by the Lord Keeper</hi> Egerton, <hi>the</hi> Lord Chief Juſtice, <hi>and Sir</hi> Edward Coke, Lord Chief Juſtice <hi>of the</hi> Com<g ref="char:EOLhyphen"/>mon Pleas, <hi>in purſuance of the Statute of the</hi> 19 Hen. 7. <hi>there was an Oath required to be taken upon coming on the ſaid Livery, there were ſeveral perſons of the</hi> Mer<g ref="char:EOLhyphen"/>chant-Tailors <hi>Company that had polled as Livery men on both ſides, and had not taken</hi> that Oath. The <hi>firſt Quaery</hi> was, Whether theſe Perſons were in a capacity to poll?</item>
+               <item>2. <hi>Whether thoſe of the</hi> Glovers, <hi>who alſo had not taken an Oath enjoined in like manner, were duly qualified?</hi>
+               </item>
+               <item>3. <hi>Whether thoſe that were Freemen of one Company, and brought on the Livery in another, without being duly tranſlated, according to the cuſtom of the City of</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>were to be reputed as Livery men capable to poll?</hi>
+               </item>
+               <item>4. <hi>Whether the</hi> Muſicians <hi>are a Livery?</hi>
+               </item>
+               <item>5, <hi>Whether the</hi> Farriers <hi>are a Livery?</hi>
+               </item>
+            </list>
+            <p>Hereupon Mr. <hi>Jenks</hi> delivered in a Paper, ſigned by the Inſpectors for Sir <hi>Th. Gold</hi> and Alderman <hi>Corniſh,</hi> and in their Name, praying that it might be read, and that the Livery men of the <hi>Merchant-Tailors</hi> and <hi>Glovers</hi> Company might be heard by their Council: which was granted them, and Mr. <hi>Trindar</hi> and Mr. <hi>Thomp<g ref="char:EOLhyphen"/>ſon,</hi> as Counſel for the ſaid Livery men, were heard at large.</p>
+            <p>After this, The Sheriffs and the Inſpectors were called in, and the Court told them, that they were come to a Reſolution upon the ſeveral Points in queſtion; and that they ſhould have it in writing under the Town-Clerks hand. The Com<g ref="char:EOLhyphen"/>mon Serjeant hereupon acquainted the Court that he ſhould be ready to make his Report the next morning. And upon this my Lord Mayor ordered a Sum<g ref="char:EOLhyphen"/>mons for a <hi>Common Hall.</hi>
+            </p>
+            <p>The Sheriffs having received the Judgment of the Court, appointed a meeting at 4 of the Clock, and the Inſpectors on both ſides being met in the <hi>Old Council Chamber,</hi> it was read to them by the Common Serj. And the Sheriffs propoſing to them that they ſhould now adjuſt the Poll, Mr. <hi>Jenks</hi> declared that they could proceed no further with the Inſpectors for Sir <hi>W. Prichard</hi> in that matter, for they did not think that the L. Mayor and the Court of Aldermen had any thing to do to meddle in it. The Sheriffs ſtill perſuading them, at leaſt to ſit by, and ſee the caſt<g ref="char:EOLhyphen"/>ing up of the Poll, though they were reſolved not to act any farther in it. But they utterly refuſed, and ſo withdrew; onely M. <hi>Jacomb</hi> was pleaſed to acknow<g ref="char:EOLhyphen"/>ledge the fairneſs of the Proceedings, and expreſly to give the Sheriffs thanks for their great Civility.</p>
+            <p>Upon this the Sheriffs and the others that ſtaid, caſt up the Poll, and it appea<g ref="char:EOLhyphen"/>red that 95 had unduly polled for Sir <hi>W. Prichard,</hi> and 165 for Sir <hi>Tho. Gold</hi> and 165 for Ald. <hi>Corniſh.</hi> Which Numbers being deducted from the Total of their Poll-Books, the account ſtands thus, 2138 for Sir <hi>W. Prichard,</hi> 2124 for Sir <hi>T. Gold,</hi> and 2093 for Ald. <hi>Corniſh.</hi> So that Sir <hi>W. Prichard</hi> had 14 more than Sir <hi>T. Gold,</hi> and 45 more than Ald. <hi>Corniſh.</hi> And ſo the choice fell upon Sir <hi>W. Prichard</hi> and Sir <hi>T. Gold.</hi>
+            </p>
+            <p>This being Reported by the Com. Serj. to my L. Mayor, with the uſual Forma<g ref="char:EOLhyphen"/>lities, his Lordſhip and the Court proceeded forthwith to the choice of One by Scrutiny, and the Election fell upon Sir <hi>William Prichard, Nemine contradicente.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Benj. Tooke</hi> at the Ship in S. <hi>Pauls</hi> Church-yard. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
